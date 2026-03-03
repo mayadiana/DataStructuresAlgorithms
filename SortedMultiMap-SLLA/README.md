@@ -10,4 +10,4 @@
 
 ## 📈 Complexity
 * **Add/Remove/Search:** $O(n)$ where $n$ is the number of pairs.
-* **Space Efficiency:** Fixed memory overhead for links, avoiding the overhead of multiple small allocations associated with standard linked lists.
+* **Space Efficiency:** Fixed memory overhead for links within the dynamic array, avoiding multiple small heap allocations.
